@@ -1,0 +1,30 @@
+_repo: Elemente-der-Absoluten-Geometrie_29806
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frischauf, Johannes
+    birthdate: 1837
+    deathdate: 1924
+    gutenberg_agent_id: '34190'
+    url: http://www.gutenberg.org/2009/agents/34190
+    wikipedia: http://de.wikipedia.org/wiki/Johannes_von_Frischauf
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Mathematics
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29806'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Geometry, Non-Euclidean'
+title: Elemente der Absoluten Geometrie
+url: http://www.gutenberg.org/ebooks/29806
