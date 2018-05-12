@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34190
     wikipedia: http://de.wikipedia.org/wiki/Johannes_von_Frischauf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29806#Elemente-der-Absoluten-Geometrie
 gutenberg_bookshelf:
 - DE Sachbuch
 - Mathematics
